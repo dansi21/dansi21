@@ -1,20 +1,18 @@
-## Hi there 👋
+## Welcome Welcome! 👋
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,mysql,mongodb)](https://skillicons.dev)
+I'm currently working as an Application Developer and spending my free time...coding still.
+
+## Current Projects Include:
+- URL Safe Short Id (URLIDs) Package
+- Card Game App (Blazor & ASPNet)
+- Rated File Sharing App
+- Generally Coding More
+
 -----
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansi21)](https://github.com/dansi21/github-readme-stats)
 
-<!--
-**dansi21/dansi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,mysql,mongodb)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+-----
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansi21&theme=dark)](https://github.com/dansi21/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
