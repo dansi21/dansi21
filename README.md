@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,mysql,mongodb)](https://skillicons.dev)
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansi21)](https://github.com/dansi21/github-readme-stats)
+
 <!--
 **dansi21/dansi21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
