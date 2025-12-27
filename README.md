@@ -5,8 +5,7 @@ I'm currently working as an Application Developer and spending my free time...co
 ## Current Projects Include:
 - URL Safe Short Id (URLIDs) Package
 - Card Game App (Blazor & ASPNet)
-- Rated File Sharing App
-- Generally Coding More
+- Rated File Sharing
 
 -----
 
