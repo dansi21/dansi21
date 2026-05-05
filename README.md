@@ -14,4 +14,5 @@ I'm currently working as an Application Developer and spending my free time...co
 
 -----
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=dansi21&theme=dark)](https://github.com/dansi21/github-readme-stats)
+[![Dansi21 F@H Stats](https://fah.dansi.dev/icon/points?userId=dansi21)](https://stats.foldingathome.org/donor/name/dansi21)
 
