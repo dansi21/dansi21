@@ -1,10 +1,9 @@
 ## Welcome Welcome! 👋
 
-I'm currently working as an Application Developer and spending my free time...coding still. Check out my most recent project [F@H Svg Badges](https://github.com/dansi21/FaHIcon/tree/master)!
+I'm currently working as a Senior Application Developer and spending my free time...coding still. Check out my most recent project [F@H Svg Badges](https://github.com/dansi21/FaHIcon/tree/master)!
 
 ## Current Projects Include:
 - URL Safe Short Id (URLIDs) Package
-- Card Game App (Blazor & ASPNet)
 - Rated File Sharing
 
 -----
